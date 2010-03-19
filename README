@@ -1,13 +1,21 @@
 LoadingIndicator
 ================
 
-Introduction goes here.
-
+LoadingIndicator is a simplistic plugin providing loading indicator support
+for AJAX calls.
 
 Example
 =======
 
-Example goes here.
+There's a two new helper methods available in your views:
 
+* loading_indicator_tag(options)
+* loading_indicator_id(options)
 
-Copyright (c) 2008 [name of plugin creator], released under the MIT license
+License
+=======
+
+Copyright (c) 2008-2010 Simon Hürlimann <simon.huerlimann@cyt.ch>
+Copyright (c) 2008-2010 ZytoLabor <http://www.zyto-labor.com>
+
+Released under the MIT license.
